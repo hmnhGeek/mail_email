@@ -12,4 +12,9 @@ For sending emails, you need your host's smtp server and smtp port. Below are so
      smtp.rediffmail.com                      25                               Rediffmail
    
    
+What's new in version 0.4?
+
+      1. Can send MMS now.
+	2. Improved way to send password to the library.
+
 Enjoy Emailing!!
